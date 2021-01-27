@@ -201,3 +201,4 @@ def _check_hop_tuoi(man_menh, woman_menh):
         result = 'Bình Thường'
 
     return result
+
